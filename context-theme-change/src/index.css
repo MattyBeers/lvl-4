@@ -1,0 +1,41 @@
+.light-theme {
+  background-color: #a8c1f8;
+  color: #000;
+  
+}
+
+.dark-theme {
+  background-color: #000408;
+  color: #fff; 
+}
+
+.nav-items{
+  list-style: none;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.nav-items >li{
+  padding: 20px;
+  display: flex;
+  text-align: justify center;
+}
+
+.main-text{
+  padding-top:10px ;
+  text-align: center;
+  padding-top: none;
+}
+
+.-button{
+  padding: 50px;
+  text-align: center;
+  /* background-color: blue; */
+}
+
+
+.foot{
+  padding-top: 5px;
+  text-align: center;
+  background-color: rgb(42, 199, 37);
+}
